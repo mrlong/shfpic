@@ -1,0 +1,15 @@
+楷书: k
+草书: c
+行书: x
+隶书：l
+篆书: z
+
+网址: http://dianshibaidu.cn/shufa/search.php?word=字
+
+小图: http://dianshibaidu.cn/shufa/thumb/k/108690.png
+大图: http://dianshibaidu.cn/shufa/show.php?wordtype=k&filename=108690.png   
+       =http://dianshibaidu.cn/shufa/large/k/108690.png
+    
+
+
+
